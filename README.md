@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @malikthedev
 - 👀 I’m interested in ... music, ai, creative strategy, developing, web3 applications
 - 🌱 I’m currently learning ... AI implementation into audio/sound, LLM and other ML applications, all aspects of coding in connection with blockchain and crypto integration
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... applications around sound, audio, ai and music.
 - 📫 How to reach me ... malik@rappacknfts.xyz
 - ⚡ Fun fact: ... I love building, I see creativity as the greatest tool to have. I'm so blessed to know that the blockchain opened my eyes to a whole new world, the journey of an artist dev begins.
 
